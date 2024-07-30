@@ -1,0 +1,191 @@
+*************************************************************
+FileName = Adapter_M2_B+M_to_E.GBR
+AutoAperture = True
+*************************************************************
+Generating : 03_GND
+      File : Adapter_M2_B+M_to_E.G2
+
+    Adding Layer      : 03_GND
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D35
+    D40
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : Adapter_M2_B+M_to_E.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : 01_Top
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+*************************************************************
+
+*************************************************************
+Generating : 01_Top
+      File : Adapter_M2_B+M_to_E.GTL
+
+    Adding Layer      : 01_Top
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : Adapter_M2_B+M_to_E.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : 04_Bottom
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Board
+      File : Adapter_M2_B+M_to_E.GM11
+
+    Adding Layer      : Board
+
+
+Used DCodes :
+    D33
+*************************************************************
+
+*************************************************************
+Generating : 02_GND
+      File : Adapter_M2_B+M_to_E.G1
+
+    Adding Layer      : 02_GND
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D35
+    D40
+*************************************************************
+
+*************************************************************
+Generating : 04_Bottom
+      File : Adapter_M2_B+M_to_E.GBL
+
+    Adding Layer      : 04_Bottom
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D40
+    D41
+*************************************************************
+
+*************************************************************
+Generating : Drill Drawing
+      File : Adapter_M2_B+M_to_E.GD1
+
+    Adding Drill Pair : 01_Top-04_Bottom
+
+    Adding Layer      : Drill Drawing
+
+
+Used DCodes :
+    D14
+    D33
+    D35
+    D41
+    D45
+    D46
+    D47
+    D48
+    D49
+    D50
+    D51
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : Adapter_M2_B+M_to_E.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : 01_Top
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : Adapter_M2_B+M_to_E.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : 04_Bottom
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D23
+    D24
+    D25
+    D26
+    D42
+    D43
+    D44
+*************************************************************
+

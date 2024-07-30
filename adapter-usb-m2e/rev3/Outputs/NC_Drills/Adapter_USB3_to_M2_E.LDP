@@ -1,0 +1,4 @@
+Layer Pairs Export File for PCB: C:\Users\Sergei\Documents\WaveletHardware\hardware-public\adapter-usb-m2e\rev3\Adapter_USB3_to_M2_E.PcbDoc
+LayersSetName=Top_Bot_Plated_Thru_Holes|DrillFile=adapter_usb3_to_m2_e-roundholes-plated.txt|DrillLayers=gtl,g1,g2,gbl
+LayersSetName=Top_Bot_Plated_Slot_Holes|DrillFile=adapter_usb3_to_m2_e-slotholes-plated.txt|DrillLayers=gtl,g1,g2,gbl
+LayersSetName=Top_Bot_NonPlated_Thru_Holes|DrillFile=adapter_usb3_to_m2_e-roundholes-nonplated.txt|DrillLayers=gtl,g1,g2,gbl

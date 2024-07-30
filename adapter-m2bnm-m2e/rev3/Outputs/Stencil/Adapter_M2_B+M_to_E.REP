@@ -1,0 +1,32 @@
+*************************************************************
+FileName = Adapter_M2_B+M_to_E.GBR
+AutoAperture = True
+*************************************************************
+Generating : Top Paste
+      File : Adapter_M2_B+M_to_E.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : 01_Top
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+*************************************************************
+
+*************************************************************
+Generating : Board
+      File : Adapter_M2_B+M_to_E.GM11
+
+    Adding Layer      : Board
+
+
+Used DCodes :
+    D14
+*************************************************************
+

@@ -1,0 +1,24 @@
+Altium Designer Pick and Place Locations
+C:\Users\Sergei\Documents\WaveletHardware\hardware-public\adapter-m2bnm-m2e\rev3\.\Outputs\Assembly\Adapter_M2_B+M_to_E_REV.0_CPL.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       30/07/24
+Time:       13:33
+Revision:   Not in VersionControl
+Variant:    CS
+Units used: mm
+
+"Designator","Center-X(mm)","Center-Y(mm)","Layer","Rotation","Comment","Manufacturer"
+"FID1","18.5000","2.0000","TopLayer","0","Fiducial",""
+"FID2","78.0000","20.0000","TopLayer","0","Fiducial",""
+"FID3","78.0000","2.0000","TopLayer","0","Fiducial",""
+"J1","1.5000","11.0000","TopLayer","270","Edge connector M.2 B-M",""
+"J2","12.4375","11.0000","TopLayer","90","SM3ZS067U215AER1500","JAE"
+"Mech1","42.0000","11.0000","TopLayer","90","SM3ZS067U215-NUT1-R2500","JAE"
+"R2","6.6500","19.2500","TopLayer","0","Res-0201-0-5%",""
+"R3","6.8000","4.0500","TopLayer","0","Res-0201-0-5%",""
+"R4","6.8000","4.7500","TopLayer","0","Res-0201-0-5%",""
+"R8","6.8000","8.3500","TopLayer","0","Res-0201-0-5%",""
+"R9","6.6500","19.9000","TopLayer","360","Res-0201-0-5%",""

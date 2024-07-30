@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: C:\Users\Sergei\Documents\WaveletHardware\hardware-public\adapter-m2bnm-m2e\rev3\Adapter_M2_B+M_to_E.PcbDoc
+LayersSetName=Top_Bot_Plated_Thru_Holes|DrillFile=adapter_m2_b+m_to_e-plated.txt|DrillLayers=gtl,g1,g2,gbl
+LayersSetName=Top_Bot_NonPlated_Thru_Holes|DrillFile=adapter_m2_b+m_to_e-nonplated.txt|DrillLayers=gtl,g1,g2,gbl

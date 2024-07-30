@@ -1,0 +1,20 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: Adapter_M2_B+M_to_E.PcbDoc   7/30/2024  1:32:39 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : 01_Top to 04_Bottom
+ASCII Plated RoundHoles File : Adapter_M2_B+M_to_E-Plated.TXT
+ASCII Non-Plated RoundHoles File : Adapter_M2_B+M_to_E-NonPlated.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.2mm (8mil)                                              Round             303       PTH        0.00mm (0.00inch)
+T2      1mm (39mil)                                               Round             20        NPTH       0.00mm (0.00inch)
+T3      1.1mm (43mil)                                             Round             1         NPTH       0.00mm (0.00inch)
+T4      1.6mm (63mil)                                             Round             1         NPTH       0.00mm (0.00inch)
+T5      2.6mm (102mil)                                            Round             1         NPTH       0.00mm (0.00inch)
+T6      3.5mm (138mil)                                            Round             1         NPTH       0.00mm (0.00inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              327
+
+Total Processing Time (hh:mm:ss) : 00:00:00
