@@ -1,0 +1,25 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: PCIe_to_M2E.PcbDoc   7/30/2024  7:40:43 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : 1_TOP to 6_BOTTOM
+ASCII Plated RoundHoles File : PCIe_to_M2E-RoundHoles-Plated.TXT
+ASCII Non-Plated RoundHoles File : PCIe_to_M2E-RoundHoles-NonPlated.TXT
+ASCII Plated SlotHoles File : PCIe_to_M2E-SlotHoles-Plated.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.2mm (8mil)                                              Round             2680      PTH        0.00mm (0.00inch)
+T2      0.6mm (24mil)                                             Slot              6         PTH        0.00mm (0.00inch)
+T3      1.2mm (47mil)                                             Round             34        PTH        0.00mm (0.00inch)
+T4      2.5mm (98mil)                                             Round             2         PTH        0.00mm (0.00inch)
+T5      2.6mm (102mil)                                            Round             1         PTH        0.00mm (0.00inch)
+T6      1.1mm (43mil)                                             Round             1         NPTH       0.00mm (0.00inch)
+T7      1.6mm (63mil)                                             Round             1         NPTH       0.00mm (0.00inch)
+T8      2.5mm (98mil)                                             Round             2         NPTH       0.00mm (0.00inch)
+T9      3.2mm (126mil)                                            Round             4         NPTH       0.00mm (0.00inch)
+T10     3.5mm (138mil)                                            Round             5         NPTH       0.00mm (0.00inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              2736
+
+Total Processing Time (hh:mm:ss) : 00:00:01

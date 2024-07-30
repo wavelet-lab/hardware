@@ -1,0 +1,4 @@
+Layer Pairs Export File for PCB: C:\Users\Sergei\Documents\WaveletHardware\hardware-public\devboard-pciex4-m2e\PCIe_to_M2E.PcbDoc
+LayersSetName=Top_Bot_Plated_Thru_Holes|DrillFile=pcie_to_m2e-roundholes-plated.txt|DrillLayers=gtl,g1,g2,g3,g4,gbl
+LayersSetName=Top_Bot_Plated_Slot_Holes|DrillFile=pcie_to_m2e-slotholes-plated.txt|DrillLayers=gtl,g1,g2,g3,g4,gbl
+LayersSetName=Top_Bot_NonPlated_Thru_Holes|DrillFile=pcie_to_m2e-roundholes-nonplated.txt|DrillLayers=gtl,g1,g2,g3,g4,gbl

@@ -1,0 +1,6 @@
+Record=TopLevelDocument|FileName=PCIe_to_M2E.SchDoc
+Record=SheetSymbol|SourceDocument=PCIe_to_M2E.SchDoc|Designator=A1|SchDesignator=A1|FileName=RFEv2.SchDoc|SymbolType=Normal|RawFileName=RFEv2.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=PCIe_to_M2E.SchDoc|Designator=B1|SchDesignator=B1|FileName=RFEv2_1.SchDoc|SymbolType=Normal|RawFileName=RFEv2_1.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=PCIe_to_M2E.SchDoc|Designator=U_PwrCtrl|SchDesignator=U_PwrCtrl|FileName=PowerControl.SchDoc|SymbolType=Normal|RawFileName=PowerControl.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=RFEv2.SchDoc|Designator=B1|SchDesignator=B1|FileName=RFE_Cellularv2.SchDoc|SymbolType=Normal|RawFileName=RFE_Cellularv2.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=RFEv2_1.SchDoc|Designator=C1|SchDesignator=C1|FileName=RFE_Cellularv2_1.SchDoc|SymbolType=Normal|RawFileName=RFE_Cellularv2_1.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
